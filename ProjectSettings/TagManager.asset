@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Circle_Red
+  - Circle_Purple
+  - Circle_Yellow
+  - Circle_Green
+  - Circle_Munchkin
+  - BackgroundTile
+  - BackgroundTile_Hole
   layers:
   - Default
   - TransparentFX
